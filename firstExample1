@@ -1,0 +1,5 @@
+<input type= "number" placeholder ="Enter a grade" /> 
+<br/>
+<br/>
+<input type="button" value="submit" onlick="returnGrade()">
+
